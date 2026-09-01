@@ -1,6 +1,6 @@
 ## glyx - Overlay app for displaying Dexcom glucose readings.
 
-**Compatible with:**
+**Compatible with:** (WIP)
 - [ ] Windows
 - [ ] MacOS
 - [X] Linux (X11)
